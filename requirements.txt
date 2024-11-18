@@ -1,4 +1,0 @@
-pint
-numpy
-pandas
-openpyxl
